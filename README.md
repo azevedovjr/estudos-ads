@@ -12,5 +12,8 @@ Meu nome é Valdeir Júnior e estou iniciando meus estudos em ADS.
 - Lógica de Programação
 - Python
 - Git e GitHub
+- HTML
+- CSS
+- JAVASCRIPT
 
 📍 João Pessoa - PB
